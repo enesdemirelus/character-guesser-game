@@ -3,5 +3,6 @@ This is a game written by me in Python that allows you to play a game to guess t
 Note : The video quality is 480p because GitHub doesn't allow any videos more than 10 MB.
 
 
-https://github.com/enesdemirelus/character-guesser-game/assets/68909190/71d79010-16cf-4fa2-adc2-70c49f8e15c5
+
+https://github.com/enesdemirelus/character-guesser-game/assets/68909190/f21d7ae8-ebf0-40a4-8cdb-52a22fc9a9f5
 
